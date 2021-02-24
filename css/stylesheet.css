@@ -1,6 +1,15 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #C9ADA7;
+}
 h1{
     font-family: 'Indie Flower', cursive;
     background-color: #9A8C98;
+    text-align: center;
+}
+nav{
+    background-color: #9A8C98;
+    text-align: center;
 }
 nav a:link{
     color: 53, 8, 80;
