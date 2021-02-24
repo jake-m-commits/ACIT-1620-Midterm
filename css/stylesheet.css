@@ -1,19 +1,57 @@
 body{
     font-family: 'Montserrat', sans-serif;
-    background-color: #C9ADA7;
+    background-color: #F2E9E4;
 }
 h1{
     font-family: 'Indie Flower', cursive;
-    background-color: #9A8C98;
     text-align: center;
+    background-color: #9A8C98;
 }
 nav{
     background-color: #9A8C98;
     text-align: center;
 }
+header{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
 nav a:link{
-    color: 53, 8, 80;
+    color: rgb(53, 8, 80);
 }
 nav a:visited{
     color: silver;
+}
+#main{
+    background-color: #C9ADA7;
+}
+#main_about{
+    background-color: #C9ADA7;
+}
+#menu{
+    text-align: center;
+}
+#about_head{
+    text-align: center;
+}
+#pancake{
+    position: relative;
+    left: 1000px;
+}
+#pizza{
+    float: left;
+}
+#resta_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#teal{
+    color: teal;
+}
+#p1{
+    padding-left: 0.5em;
+}
+#p2{
+    float: left;
 }
