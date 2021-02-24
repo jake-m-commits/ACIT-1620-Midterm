@@ -1,3 +1,10 @@
 h1{
     font-family: 'Indie Flower', cursive;
+    background-color: #9A8C98;
+}
+nav a:link{
+    color: 53, 8, 80;
+}
+nav a:visited{
+    color: silver;
 }
